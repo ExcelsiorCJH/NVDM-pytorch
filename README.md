@@ -3,7 +3,7 @@
 
 - NVDM in [Neural Variational Inference for Text Processing](https://arxiv.org/abs/1511.06038). Yishu Miao, Lei Yu, Phil Blunsom. ICML 2016.
 
-
+<img src="./nvdm.png" style="zoom:65%;" />
 
 ## Directories
 
