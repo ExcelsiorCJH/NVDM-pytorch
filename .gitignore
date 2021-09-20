@@ -239,4 +239,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# pytorch_lightning logs
+lightning_logs/
+lightning_logs/*
+
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,jupyternotebooks,visualstudiocode
