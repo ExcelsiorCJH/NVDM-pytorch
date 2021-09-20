@@ -243,4 +243,8 @@ $RECYCLE.BIN/
 lightning_logs/
 lightning_logs/*
 
+# notebook
+notebook/
+notebook/*
+
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,jupyternotebooks,visualstudiocode
