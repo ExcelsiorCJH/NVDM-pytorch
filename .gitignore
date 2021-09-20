@@ -247,4 +247,8 @@ lightning_logs/*
 notebook/
 notebook/*
 
+# data dir
+data/
+data/*
+
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,jupyternotebooks,visualstudiocode
